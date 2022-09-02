@@ -1,0 +1,2 @@
+export const UPDATE_NUMBER = 'UPDATE_NUMBER'
+export const UPDATE_REGION = 'UPDATE_REGION'
